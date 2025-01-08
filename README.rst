@@ -24,4 +24,4 @@ Conventions
 + Readme and document file format: ReStructuredText (rst files)
 + Makefile: tab as indentations
 
-Copyright (C) 2022 Xingang (Ian) Fang
+
